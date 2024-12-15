@@ -1,5 +1,7 @@
 # 🔍 CPF Lookup Service
 
+![./1.pgn](./1.png)
+
 ## ✨ Funcionalidades
 
 - 🔐 Autenticação segura com credenciais
