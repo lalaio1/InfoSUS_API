@@ -31,7 +31,7 @@ npm install
 ```
 
 3. Configuração das Credenciais
-- Abra o arquivo `API.ts`
+- Abra o arquivo `index.ts`
 - Substitua `SEU_EMAIL_AQUI` e `SUA_SENHA_AQUI` com suas credenciais
 
 ## 🔧 Configuração
